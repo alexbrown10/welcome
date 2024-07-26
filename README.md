@@ -9,7 +9,7 @@ With a background in IT and a degree in Medieval History, I bring a unique combi
 
 ## Portfolio
 
-For a sample of my work in both technical and content writing, please see [my Portfolio here](welcome/Writing_Portfolio.md)
+For a sample of my work in both technical and content writing, please see [my Portfolio here](Writing_Portfolio.md)
 
 ## Business Opportunities
 
