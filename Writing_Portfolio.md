@@ -1,6 +1,6 @@
 # Welcome to my Technical Writing Portfolio
 > [!Note]
-> These will mainly be public permalinks to web pages (blog articles, support documentation, API reference, etc), with non-web page files to be uploaded in a sub-folder. This is an example subset, and not indicative of my entire work. 
+> These will mainly be public permalinks to web pages (blog articles, support documentation, API reference, etc), with non-web page files to be uploaded in a sub-folder. This is a sample subset, and not indicative of my entire work. 
 
 ## Blog Articles
 
