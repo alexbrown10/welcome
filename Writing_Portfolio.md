@@ -15,7 +15,7 @@
 * [(Uptime.com) Configuring Single Sign-On (SSO) for Uptime.com](https://support.uptime.com/hc/en-us/articles/360001434205-Configuring-Single-Sign-On-SSO-for-Uptime-com)
 * [(Uptime.com) Setup Instructions for your Uptime.com Status Page](https://support.uptime.com/hc/en-us/articles/360016256820-Setup-Instructions-for-your-Uptime-com-Status-Page)
 * [(Uptime.com) Securing Your Uptime.com Status Page](https://support.uptime.com/hc/en-us/articles/6801239386652-Securing-Your-Uptime-com-Status-Page)
-* [(Uptime.com) Getting Started with Private Locatoin Monitoring](https://support.uptime.com/hc/en-us/articles/360012622239-Getting-Started-with-Private-Location-Monitoring)
+* [(Uptime.com) Getting Started with Private Location Monitoring](https://support.uptime.com/hc/en-us/articles/360012622239-Getting-Started-with-Private-Location-Monitoring)
 * [(Uptime.com) Private Location Monitoring developer docs](https://github.com/uptime-com/uptime-private-location)
 * [(Uptime.com) Configuring Jira Service Desk](https://support.uptime.com/hc/en-us/articles/360002593379-Configuring-Jira-Service-Desk)
 
