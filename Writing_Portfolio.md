@@ -34,7 +34,7 @@
 
 * Uptime.com's [Web App Release Notes](https://uptime.com/changelog)
 * Uptime.com's [Mobile App Release Notes](https://uptime.com/mobile-changelog)
-* Uptime.com's Status Updates [hosted on their Status Page as ](https://status.uptime.com)
+* Uptime.com's Status Updates [hosted on their Status Page ](https://status.uptime.com)
 
 ## Webinars
 
