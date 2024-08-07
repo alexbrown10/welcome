@@ -13,4 +13,4 @@ For a sample of my work in both technical and content writing, please see [my Po
 
 ## Business Opportunities
 
-For freelance or contract work, please connect with me on my [LinkedIn](https://www.linkedin.com/in/alexander-brown-9a4b0b19a/). 
+For freelance or contract work, please connect with me on my [LinkedIn](https://www.linkedin.com/in/alex-brown-9a4b0b19a/). 
